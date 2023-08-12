@@ -82302,7 +82302,7 @@ r=A.a2(a,m,s).w
 s=A.a2(a,m,s).w
 o=A.ec(new A.aD(0,0))
 A.Q()
-return A.lO(B.bP,A.a([q,A.bO(!1,!0,A.ac(m,m,m,m,new A.bp(B.u,A.avh(new A.oS(B.bR,l?B.hK:B.hM,m,B.hY),B.l8,new A.ou("svg/myImage.jpg",m,m)),m,o,m,m,B.A),s.a.a*0.22,m,m,r.a.a*0.22),m,!0,m,m,m,m,m,m,m,new A.afo(b),m,new A.afp(),m,m,m,m,m)],t.p),B.ab,B.c_)},
+return A.lO(B.bP,A.a([q,A.bO(!1,!0,A.ac(m,m,m,m,new A.bp(B.u,A.avh(new A.oS(B.bR,l?B.hK:B.hM,m,B.hY),B.l8,new A.ou("svg/myImage.webp",m,m)),m,o,m,m,B.A),s.a.a*0.22,m,m,r.a.a*0.22),m,!0,m,m,m,m,m,m,m,new A.afo(b),m,new A.afp(),m,m,m,m,m)],t.p),B.ab,B.c_)},
 $C:"$3",
 $R:3,
 $S:61}
@@ -83056,7 +83056,7 @@ r=A.a2(a,n,s).w
 s=A.a2(a,n,s).w
 p=A.ec(new A.aD(0,0))
 A.Q()
-return A.lO(B.bP,A.a([q,new A.fb(B.hF,n,n,A.bO(!1,!0,A.ac(B.a0,n,n,n,new A.bp(B.u,A.avh(new A.oS(B.bR,m?B.hK:B.hM,n,B.hY),B.l8,new A.ou("svg/myImagemobile.jpg",n,n)),n,p,n,n,B.A),s.a.a*0.77,new A.M(0,25,20,0),n,r.a.a*0.62),n,!0,n,n,n,n,n,n,n,new A.ajE(b),n,new A.ajF(),n,n,n,n,n),n)],t.p),B.ab,B.c_)},
+return A.lO(B.bP,A.a([q,new A.fb(B.hF,n,n,A.bO(!1,!0,A.ac(B.a0,n,n,n,new A.bp(B.u,A.avh(new A.oS(B.bR,m?B.hK:B.hM,n,B.hY),B.l8,new A.ou("svg/myImagemobile.webp",n,n)),n,p,n,n,B.A),s.a.a*0.77,new A.M(0,25,20,0),n,r.a.a*0.62),n,!0,n,n,n,n,n,n,n,new A.ajE(b),n,new A.ajF(),n,n,n,n,n),n)],t.p),B.ab,B.c_)},
 $C:"$3",
 $R:3,
 $S:61}
