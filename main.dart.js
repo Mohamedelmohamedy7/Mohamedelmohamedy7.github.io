@@ -91211,7 +91211,7 @@ if(k){n=r*0.625
 n=new A.ay(n,n)}else{n=r*0.95
 n=new A.ay(n,n)}if(k){m=r*0.525
 m=new A.ay(m,m)}else{m=r*0.625
-m=new A.ay(m,m)}p=A.KF(new A.cp(B.E,B.E,new A.ay(p,p),n),A.KF(new A.cp(B.E,B.E,B.E,m),A.at(l,A.q8(k?"assets/svg/myImagemobileHover.webp":"assets/svg/myImagemobile.webp",l,B.m2,q,r),B.l,l,l,l,l,l,l,l,l,l,l)))
+m=new A.ay(m,m)}p=A.KF(new A.cp(B.E,B.E,new A.ay(p,p),n),A.KF(new A.cp(B.E,B.E,B.E,m),A.at(l,A.q8(k?"assets/svg/myImagemobileHover.png":"assets/svg/myImagemobile.png",l,B.m2,q,r),B.l,l,l,l,l,l,l,l,l,l,l)))
 o=A.fC(q,r*o)
 return A.nO(A.iP(B.bf,A.a([s,new A.xL(p,l,o,B.a6,B.bE,l,l)],t.p),B.L,B.br),B.bW,new A.apC(b),new A.apD(b),l)},
 $C:"$3",
